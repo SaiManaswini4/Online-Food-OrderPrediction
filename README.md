@@ -43,7 +43,4 @@ The model is selected based on evaluation metrics including accuracy, precision,
 ## Contributors
 **Team Members: K.M.S.S.Manaswini, M.Jai Prabhas**
 
-## License
-This project is licensed under the MIT License.
-
 ## Feel free to reach out for any questions or collaboration opportunities!
