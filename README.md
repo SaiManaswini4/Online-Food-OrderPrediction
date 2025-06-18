@@ -1,4 +1,4 @@
-# Online Food Order Prediction 🍽️
+# Online Food Order Prediction
 
 ## Introduction
 Online food ordering has rapidly transformed consumer behavior, making order prediction a key component for operational efficiency. This project applies machine learning techniques to forecast whether a user will place an online food order. It aims to help restaurants optimize inventory and personalize customer experiences.
