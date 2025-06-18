@@ -41,9 +41,9 @@ The model is selected based on evaluation metrics including accuracy, precision,
 - Experiment with deep learning models and ensemble techniques for improved accuracy.
 
 ## Contributors
-#Team Members: K.M.S.S.Manaswini, M.Jai Prabhas
+# Team Members: K.M.S.S.Manaswini, M.Jai Prabhas
 
 ## License
 This project is licensed under the MIT License.
 
-##Feel free to reach out for any questions or collaboration opportunities!
+## Feel free to reach out for any questions or collaboration opportunities!
